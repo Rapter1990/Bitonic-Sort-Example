@@ -21,7 +21,7 @@
 <ul>
   <li>src
     <ul>
-      <li>mergesort
+      <li>bitonicsort
         <ul>
           <li>BitonicSortProcess.java</li>
         </ul>
