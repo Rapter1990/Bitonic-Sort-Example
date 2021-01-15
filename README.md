@@ -8,7 +8,7 @@
         <li>Bitonic Sort must be done if number of elements to sort are 2^n. The procedure of bitonic sequence fails if the number of elements are not in aforementioned quantity precisely</li>
       </ul>
   </li>
-  <li>This java example shows how to sort an element of Java ArrayList using Quick Sort method of Collections class.</li>
+  <li>This java example shows how to sort an element of Java ArrayList using Bitonic Sort method of Collections class.</li>
 </ul>
 
 <h3>The objective of Program</h3>
